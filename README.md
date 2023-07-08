@@ -1,0 +1,2 @@
+# WeatherPollutionAnalyzer
+  WeatherPollutionAnalyzer is a comprehensive and insightful data repository that combines weather data analysis with air pollution monitoring. With the increasing impact of climate change and growing concerns about air quality, WeatherSense aims to provide researchers, scientists, and developers with a valuable resource for studying the interplay between weather conditions and air pollution levels.
